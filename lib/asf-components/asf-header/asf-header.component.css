@@ -3,8 +3,8 @@ nav {
   width: 100%;
   height: 60px;
 
-  background-color: #151515;
-  color: #c6bbbb;
+  background-color: var(--background-color-2);
+  color: var(--text-color-2);
   font-weight: 600;
 }
 
